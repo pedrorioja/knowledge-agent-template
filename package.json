@@ -36,6 +36,9 @@
     "turbo": "^2.8.3"
   },
   "packageManager": "bun@1.2.22",
+  "engines": {
+    "node": "22.x"
+  },
   "overrides": {
     "minimatch": "^10.0.1"
   }
